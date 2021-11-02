@@ -1,0 +1,5 @@
+mido~=1.2.10
+python-rtmidi~=1.4.9
+playsound~=1.3.0
+PyObjC~=7.3
+pygame~=2.0.2
